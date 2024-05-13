@@ -10,6 +10,8 @@
 - ⭐ Github Star ⭐ 
 - 📲 Mobile developer
 - 🎥 Te enseño a programar apps
+- 🧱Configuro tu servidor de minecraft
+- 💻Configuro bots de Discord 
 <br>                                                                              
 </td>  
 </table>                                                                                 
