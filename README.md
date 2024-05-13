@@ -14,10 +14,6 @@
 - 🧱Configuro tu servidor de minecraft
 - 💻Configuro bots de Discord 
 <br>                                                                              
-</td>  
-</table>                                                                                 
-</div>
-<br>
 
 ## &nbsp;GitHub Estadisticas
 
