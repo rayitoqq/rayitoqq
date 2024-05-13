@@ -13,7 +13,7 @@
 - 🧱Configuro tu servidor de minecraft
 - 💻Configuro bots de Discord                                                                             
 
-### 👨‍💻 Languages de Programacion con experiencia
+### 👨‍💻 Languages de Programacion
 
 <br />
 
