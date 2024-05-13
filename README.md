@@ -10,14 +10,11 @@
 - ⭐ Github Star ⭐ 
 - 📲 Mobile developer
 - 🎥 Te enseño a programar apps
-<br>
-
-                                                                                      
+<br>                                                                              
 </td>  
 </table>                                                                                 
 </div>
 <br>
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
