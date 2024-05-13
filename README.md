@@ -19,7 +19,7 @@
 </div>
 <br>
 
-⚙️ ## &nbsp;GitHub Estadisticas
+## &nbsp;GitHub Estadisticas
 
 <p align="center">
 <a href="https://github.com/rayitoqq">
