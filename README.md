@@ -18,7 +18,7 @@
 </table>                                                                                 
 </div>
 <br>
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Estadisticas
 
 <p align="center">
 <a href="https://github.com/rayitoqq">
