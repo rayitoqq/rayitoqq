@@ -8,9 +8,8 @@
 ## Sobre mi
 
 - ⭐ Github Star ⭐ 
-- 📲 Mobile developer
+- 🖥️ PC developer
 - 🎥Te enseño a programar apps
-- 🖥️Te enseño a crear paginas
 - 🧱Configuro tu servidor de minecraft
 - 💻Configuro bots de Discord                                                                             
 
