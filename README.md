@@ -2,7 +2,6 @@
 <h1 align="center">Hola, soy RyayitoqqDev  👋</h1>
 </div>
 
-[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/ryayitoqq)
 [![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)](https://discord.com/invite/zuNr88eXjP)
 
 ## Sobre mi
