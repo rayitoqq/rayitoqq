@@ -6,11 +6,12 @@
 
 ## Sobre mi
 
-- ⭐ Github Star ⭐ 
-- 🖥️ PC developer
-- 🎥Te enseño a programar apps
-- 🧱Configuro tu servidor de minecraft
-- 💻Configuro bots de Discord                                                                             
+- ⭐Github Star⭐
+  
+- 🖥️PC developer
+- 🎥Developer Web
+- 🧱Developer Minecraft
+- 💻Developer Discord                                                                             
 
 ### 👨‍💻 Lenguajes de Programacion
 
