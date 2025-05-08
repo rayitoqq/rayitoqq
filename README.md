@@ -12,7 +12,7 @@
 - 🧱Configuro tu servidor de minecraft
 - 💻Configuro bots de Discord                                                                             
 
-### 👨‍💻 Languages de Programacion
+### 👨‍💻 Lenguajes de Programacion
 
 <br />
 
