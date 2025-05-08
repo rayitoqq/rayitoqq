@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy RyayitoqqDev  👋</h1>
 </div>
 
-[![Discord Shield](https://discordapp.com/api/guilds/1121605836146491423/widget.png?style=shield)](https://discord.gg/qskgbtJnRw)
+[![Únete a nuestro Discord](https://img.shields.io/discord/1121605836146491423?label=Discord&logo=discord&color=5865F2)](https://discord.gg/qskgbtJnRw)
 
 ## Sobre mi
 
