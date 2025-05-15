@@ -8,7 +8,6 @@
 
 - ⭐Github Star⭐
   
-- 🖥️PC developer
 - 🎥Developer Web
 - 🧱Developer Minecraft
 - 💻Developer Discord                                                                             
