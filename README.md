@@ -17,11 +17,11 @@
 
 <br />
 
-[![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://github.com/rayitoqq) 
+[![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://github.com/rayitoqq)
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)](https://github.com/rayitoqq)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/rayitoqq) 
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html&logoColor=white&link=https://github.com/BRdhanani)](https://github.com/rayitoqq) 
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css&link=https://github.com/BRdhanani)](https://github.com/rayitoqq) 
-[![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)](https://github.com/rayitoqq)
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/BRdhanani)](https://github.com/rayitoqq) 
 [![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&link=https://github.com/BRdhanani)](https://github.com/rayitoqq) 
